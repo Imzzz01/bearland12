@@ -1,6 +1,17 @@
 ## Table Of Contents
 [Purpose of project](#purpose-of-project)
-
+- [Target Audience](#target-audience)
+- [User Query](#user-query)
+- [Features and Functionalities](#features)
+- [Technologies used](#technologies)
+- [Future Enhancements](#future-enhancements)
+- [Design Rationale](#design-rationale)
+- [Internal and External Code](#internal-and-external-code)
+- [Validation](#validator)
+- [Commit Messages](#internal-and-external-code)
+- [Principles of Manual and Automated Testing](#principles-of-manual-and-automated-testing)
+- [Finished Project](#finished-project)
+- [Deployment](#deployment)
 
 ## Links For UX Design | Gant chart | Test Plan
 
