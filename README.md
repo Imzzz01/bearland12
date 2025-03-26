@@ -19,8 +19,10 @@
 
 #README: CineLens(http://localhost:5501/) [CineLens]
 # Purpose of Project <a id="purpose"></a>
+The goal of Bear Land is to introduce teddy bear lovers to our unique eCommerce platform. Here, you'll find a wide selection of soft, adorable, and colourful teddy bears. Our aim is to evoke the joy of childhood and the appeal of owning teddy bears, a sentiment that transcends age. As adults, we all appreciate the comfort these bears provide, and their positive impact on our mental health is undeniable. 
 
-
+Bear Land is not just a platform for buying teddy bears; it is also a built-in store where you can purchase gifts for your loved ones. It is an interactive e-commerce store where you can buy, gift, and adopt a teddy bear. An exciting feature has been added for users requiring comfort and attention. This built-in feature allows users to destress and is a significant asset to better mental health. We want to raise mental health awareness, so we have created an adoption feature where you can choose a virtual bear and an outfit for it; it will look similar to a game. The game will allow you to get out of the real world and, for a few minutes, come into the virtual world, which will help to release stress, etc.
+ 
 
 # Target Audience<a id="target-audience"></a>
 
